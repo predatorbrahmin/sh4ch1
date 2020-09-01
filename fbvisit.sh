@@ -3,12 +3,11 @@ apt install w3m
  echo divyansh pandit 
  echo +-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+
 echo -e "$yellow Select From Menu : $nc"
-
-echo -e "1 - facebook"
-
-read -p "Choice >  " ch
-if [ $ch = 1 ]; then
-echo -e "	opening facebook.."
+ 
+echo " press one to enter facebook "
+read -p "Wanna Back To Main Menu [ Y / n ] : " check2
+echo -e "$nc"
+if [ $check2 = "1" ]; then
 w3m www.facebook.com
 else 
 exit
