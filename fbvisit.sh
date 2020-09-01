@@ -1,7 +1,7 @@
 echo -e "$red" 
-echo "+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+" 
-echo "SH4CH1 +-+-+-+-+-+-+-SH4CH1+-+-"
-echo "+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+"
+echo "$red   +-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+" 
+echo "$green SH4CH1 +-+-+-+-+-+-+-SH4CH1+-+-"
+echo "$red   +-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+"
  
 echo -e " press one to enter facebook "
 sleep 5
