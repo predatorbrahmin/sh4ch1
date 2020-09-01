@@ -6,7 +6,7 @@ echo "+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+"
 echo "SH4CH1 +-+-+-+-+-+-+-SH4CH1+-+-"
 echo "+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+"
 echo -e "$yellow"
-echo "YOU ARE ENTERING IN THE PROGRAM SH4CHI 2.0 A VIRTUAL FB"
+echo "YOU ARE ENTERING IN THE PROGRAM SH4CHI 2.0 A CMD AUTO FB"
 sleep 2
 echo -e "$green"
 echo -e " press one to enter facebook "
