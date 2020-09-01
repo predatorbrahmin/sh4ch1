@@ -10,3 +10,5 @@ echo -e "		$Cyan 99: Exit$nc"
 read -p "Choice >  " ch
 if [ $ch = 1 ]; then
 w3m www.facebook.com
+else 
+exit
