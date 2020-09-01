@@ -7,4 +7,5 @@ echo -e " press one to enter facebook "
 sleep 5
 echo "Loading fb...."
 sleep 10
+apt install w3m 
 w3m www.facebook.com
