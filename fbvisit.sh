@@ -1,7 +1,9 @@
+red="\033[1;31m"
+green="\033[1;32m"
 echo -e "$red" 
-echo "$red   +-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+" 
-echo "$green SH4CH1 +-+-+-+-+-+-+-SH4CH1+-+-"
-echo "$red   +-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+"
+echo "+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+" 
+echo "SH4CH1 +-+-+-+-+-+-+-SH4CH1+-+-"
+echo "+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+"
  
 echo -e " press one to enter facebook "
 sleep 5
